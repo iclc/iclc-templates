@@ -92,6 +92,10 @@ what you think would be compatible.
 
 Additionally, if you will need a table, how many chairs?
 
-### 2.8 Anything else you need ? 
+### 2.8 Do you need an internet connection during the performance? 
+
+Please state if you need wifi, if you could use ethernet, and if the performance relies upon a remote connection of any kind. 
+
+### 2.9 Anything else you need ? 
 
 Cables, adapters, powerstrips, anything else you can't bring yourself?
