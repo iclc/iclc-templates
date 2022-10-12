@@ -8,7 +8,7 @@ Workshops
 
 -   **Main Contact:**
 
--   **Additional Instructor(s)**
+-   **Additional Instructor(s):**
 
 -   **Workshop Duration:** long (4h) or short (2h) ?
 
