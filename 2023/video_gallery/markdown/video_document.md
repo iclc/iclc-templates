@@ -1,4 +1,4 @@
-# ICLC 2023 - Video Documents
+# ICLC 2023 - Proposal for Video Document
 
 Submission in proposal of a piece to be included in the Video Gallery presentation category. 
 
