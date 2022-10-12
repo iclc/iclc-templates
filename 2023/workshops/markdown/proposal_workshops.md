@@ -1,6 +1,6 @@
-# ICLC 2023 - Proposal
+# ICLC 2023 - Proposal for Workshops
 
-Workshops
+Workshop sessions will be in the short form (<2h) or long form (>2h).
 
 ## 1. General Information {#general-information .list-paragraph}
 
