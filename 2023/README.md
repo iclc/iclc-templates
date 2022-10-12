@@ -1,6 +1,6 @@
 # International Conference on Live Coding 2023 - Submission Templates
 
-In this package, you can find the submission templates for proposals in the following presentation categories:
+In this package, you can find the instructions and submission templates for proposals in the following presentation categories:
 
 * Community Reports (written or video)
 * Papers (short or long)
@@ -17,7 +17,7 @@ The working templates for each category are available in two formats: in *Markdo
 
 Please see below for template instructions specific to each presentation category.
 
-### Markdown / Commonmark
+### Markdown / Commonmark templates
 
 With the Markdown template, you write your paper as a text file, with simple markup to specify formatting, citations and the inclusion of images. This file (README.md) is itself formatted in the *Markdown* format. 
 
@@ -28,7 +28,7 @@ To convert Markdown files to PDF You need [**Pandoc**](http://pandoc.org) and a 
 ```
 pandoc your_proposal.md -o your_proposal.pdf
 ```
-### Microsoft Word Template
+### Microsoft Word templates
 
 This template comes in the form of an MS Word document, where you replace the example text with that of your paper. Please follow examples for sections, figures, and citations.
 
@@ -83,7 +83,7 @@ Workshop proposals will be accepted for short (2hr) or long (4hr) sessions. Plea
 
  - Abstract: max. 700 words
  - Program Note: max. 150 words
- - Artist(s) Bio(s): max. 150 words each.
+ - Instructor(s) Bio(s): max. 150 words each.
 
 The templates also include a mandatory technical questionnaire. 
 
