@@ -1,6 +1,6 @@
-# ICLC 2023 - Proposal
+# ICLC 2023 - Proposal for Live Performances
 
-Live Performances
+Live Performances will largely fall into one of two formats: a concert format, with seated audience; and an Algorave format, unseated and intended for dancing. 
 
 ## 1. General Information {#general-information .list-paragraph}
 
