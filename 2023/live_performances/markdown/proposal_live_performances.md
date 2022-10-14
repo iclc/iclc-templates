@@ -48,7 +48,7 @@ Please describe the ideal conditions, i.e. Algorave with dancing audience, conce
 
 ### 1.3 Would you mind being paired with another performer?
 
-I.e., if you're submitting a music-only Algorave performance, would youmind being paired with a potentially random visual performer?
+I.e., if you're submitting a visual-only or music-only Algorave performance, the Committee may select a complimentary performer to create a combined A/V set, without additional input from you. You may answer N/A if this doesn't apply to your submission. 
 
 ### 1.4 Will your performance require technical support **during** the set? 
 
