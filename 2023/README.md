@@ -39,10 +39,11 @@ This template should also work for LibreOffice or Google Docs.
 Community Reports can be submitted in 2 different formats: written or video. Note that ALL Community Reports will be published in the Conference proceedings, and video reports will be automatically included in the online Video Gallery. Peer review notes may still be provided before a final version is collected in a format suitable for publishing. 
 
 ### Written Reports
-**Written reports** must use the templates for papers, with 3 important differences: 
-- Length: 2-6 pages
-- "Abstract" to be replaced with "Summary" (max. 300 words)
-- Citations may be unnecessary
+**Written reports** must use the templates for papers, with 3 important differences:
+
+ - Length: 2-6 pages
+ - "Abstract" to be replaced with "Summary" (max. 300 words)
+ - Citations may be unnecessary
   
 Note the .md template for Papers includes additional instructions for exporting to PDF, as explained above.
 
