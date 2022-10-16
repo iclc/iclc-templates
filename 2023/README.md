@@ -67,7 +67,7 @@ Short or Long Papers will use the same templates, and must be written in English
 
 ## Live Performances
 
-Proposals for Live Performances will largely fall into one of two formats: a concert format, with seated audience; and an Algorave format, unseated and intended for dancing. Please use the same templates for either type. The templates for Live Performances include several sections with size limitations:
+Live Performances (including audio, visual, and A/V or multimedia) will largely be sorted into one of two formats: a concert format, with seated audience; and an Algorave format, unseated and intended for dancing. Please use the same templates for either type. The templates for Live Performances include several sections with size limitations:
 
  - Abstract: max. 300 words
  - Program Note: max. 150 words
