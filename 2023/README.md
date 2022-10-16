@@ -40,9 +40,9 @@ Community Reports can be submitted in 2 different formats: written or video. Not
 
 ### Written Reports
 **Written reports** must use the templates for papers, with 3 important differences: 
-  - Length: 2-6 pages
-  - "Abstract" to be replaced with "Summary" (max. 300 words)
-  - Citations may be unnecessary
+- Length: 2-6 pages
+- "Abstract" to be replaced with "Summary" (max. 300 words)
+- Citations may be unnecessary
   
 Note the .md template for Papers includes additional instructions for exporting to PDF, as explained above.
 
