@@ -13,4 +13,4 @@ iclc2023.docx: iclc2023.md references.bib
 	pandoc --citeproc --number-sections iclc2023.md -o iclc2023.docx
 
 iclc2023x.pdf: iclc2023.md references.bib pandoc/iclc.latex pandoc/iclc.sty
-	pandoc --template=pandoc/iclc.latex --citeproc --number-sections iclc2023.md --latex-engine=xelatex -o iclc2023x.pdf
+	pandoc --template=pandoc/iclc.latex --citeproc --number-sections iclc2023.md --pdf-engine=xelatex -o iclc2023x.pdf
