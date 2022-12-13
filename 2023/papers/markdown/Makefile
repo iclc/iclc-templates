@@ -1,4 +1,4 @@
-all: iclc2023.pdf iclc2023.html
+all: iclc2023x.pdf iclc2023.html
 
 clean:
 	rm iclc2023.pdf iclc2023.html
