@@ -68,22 +68,20 @@ Please also state what connector type(s) you need (HDMI, VGA, ...), and the idea
 
 Are you performing in stereo, multichannel, \...? Do you need a subwoofer?
 
-### 2.4 Do you require a microphone?
+### 2.4 Do you require a microphone? If so, how many microphones does your performance need?
 
 ### 2.5 Do you require a monitor, either over headphones or otherwise?
 
-### 2.6 How many microphones does your performance need?
-
-### 2.7 Are you bringing your own audio interface?
+### 2.6 Are you bringing your own audio interface?
 
 If you can't bring yours for any reason, please state what you need or what you think would be compatible.
 
-### 2.8 How much table/floor space will you need for your performance? How many chairs?
+### 2.7 How much table/floor space will you need for your performance? How many chairs?
 
-### 2.9 Do you need an internet connection during the performance? 
+### 2.8 Do you need an internet connection during the performance? 
 
 Please state if you need wifi, if you could use ethernet, and how the performance relies upon a remote connection of any kind. 
 
-### 2.10 Anything else you need? 
+### 2.9 Anything else you need? 
 
 Cables, adapters, powerstrips, anything else you can't bring yourself?
