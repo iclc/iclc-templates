@@ -16,7 +16,7 @@ Live Performances (including audio, visual, and A/V or multimedia) will largely 
 
 Please support your submission with a clear description of your performance, and discussion of influences and prior art as appropriate. Peer review and acceptance will be based on this abstract, and it will also be published in the proceedings of the conference. 
 
-Max. 300 words. 
+Max. 1000 words. 
 
 ## 3. Video and/or Audio Material
 
