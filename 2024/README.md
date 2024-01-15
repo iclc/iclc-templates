@@ -20,13 +20,18 @@ Please see below for template instructions specific to each presentation categor
 
 With the Markdown template, you write your paper as a text file, with simple markup to specify formatting, citations and the inclusion of images. This file (README.md) is itself formatted in the *Markdown* format. 
 
-To convert Markdown files to PDF You need [**Pandoc**](http://pandoc.org) and a LaTeX distribution installed. In addition:
+To convert Markdown files to PDF You need [**Pandoc**](http://pandoc.org) and a LaTeX distribution installed.
+
+**Note: We have received word of possible compatibility issues with very recent versions of Pandoc. ("Lonely \item--...") We're looking into those now, but if you are affected, consider trying a [pre-compiled binary](https://github.com/jgm/pandoc/releases/tag/3.1.5) of an older version of Pandoc, which is working.**
+
+In addition:
 
  - *Papers template*: for more information please refer to the template itself. Because the template is a bit more complex, we have included a tutorial on how to convert the Markdown file to PDF. 
  - *Other templates*: to convert basic Markdown files to PDF, run the following command: 
 ```
 pandoc your_proposal.md -o your_proposal.pdf
 ```
+
 ### Microsoft Word templates
 
 This template comes in the form of an MS Word document, where you replace the example text with that of your paper. Please follow examples for sections, figures, and citations.
