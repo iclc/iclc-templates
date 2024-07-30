@@ -78,6 +78,10 @@ Workshop proposals will be accepted for short (2hr) or long (4hr) sessions. Plea
 The templates also include a mandatory technical questionnaire. 
 
 Please complete the full document and render your submission to PDF before uploading.
+
+## Fonts
+
+The template archive contains the fonts you need for the papers template. The included fonts are licensed under OFL-1.1.
  
 __________________________________
 
