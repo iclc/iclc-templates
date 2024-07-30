@@ -15,7 +15,7 @@ Workshop sessions will be in the short form (<2h) or long form (>2h).
 -   **Target Audience:** visitors \| beginners \| students \| general
     public \| experts \| ?
 
--   **Workshop Language:**
+-   **Workshop Language:** english \| spanish \| catalan \|
 
 ## 2. Abstract
 
