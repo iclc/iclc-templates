@@ -1,7 +1,7 @@
 all: iclc2025x.pdf iclc2025.html
 
 clean:
-	rm iclc2025.pdf iclc2025.html
+	rm iclc2025x.pdf iclc2025.html iclc2025.pdf iclc2025.docx
 
 iclc2025.html: iclc2025.md references.bib
 	pandoc --template=pandoc/iclc.html --citeproc --number-sections iclc2025.md -o iclc2025.html
