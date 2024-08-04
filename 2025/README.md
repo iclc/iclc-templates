@@ -23,7 +23,7 @@ With the Markdown template, you write your paper as a text file, with simple mar
 
 To convert Markdown files to PDF You need [**Pandoc**](http://pandoc.org) and a LaTeX distribution installed.
 
-**Note: The templates have been updated to work with very recent versions of Pandoc. It has been successfully tested with versions 3.1.8 and 3.3. If you still run into issues, please contact us via [iclc@toplap.cat](mailto:iclc@toplap.cat).**
+**Note: The `papers` template has been updated to work with very recent versions of Pandoc. It has been successfully tested with versions 3.1.8 and 3.3. If you still run into issues, please contact us via [iclc@toplap.cat](mailto:iclc@toplap.cat).**
 
 In addition:
 
