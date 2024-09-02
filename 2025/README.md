@@ -55,7 +55,7 @@ According to patterns that we see emerge from the submissions received, we inten
 
 The templates for live performances include several sections with size limitations:
 
- - Abstract: max. 300 words.
+ - Abstract: max. 800 words.
  - Program Note: max. 150 words.
  - Artist(s) Bio(s): max. 150 words each. 
  
