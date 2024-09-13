@@ -2,6 +2,8 @@
 
 Installation formats include audio, visual, A/V, multimedia and hardware. As we explore venues and dates, and according to patterns that we see emerge from the submissions received, we intend to set installations either in a dedicated space for all of them as an exhibition, or scattered around where other ICLC events take place.
 
+Please define what is the liveness aspect of the installation. It should reflect the idea of code as a gesture in a transparent manner.
+
 Be as thorough as possible with the Technical Questionnaire and add a link to a plan or sketch with measurements (metric, please) so that we can avoid surprises. **Bear in mind the feasibility** of presenting it with few or **no hardware provided by us**. Although we are working hard to get ways to provide projectors, screens and sound systems, we cannot assure you'll get what your installation needs. If you can bring your own hardware, please clearly specify it, as that would help us a lot.
 
 ## 1. General Information
@@ -57,6 +59,10 @@ If you’re submitting an installation with audio that needs to go out through s
 ### 1.4 Will your installation require support of any kind during the exhibition?
 
 Is support needed, e.g. to start and stop it, to give instructions to visitors, etc.? If yes, please describe and let us know if you will be taking care of it.
+
+### 1.5 How much time do you need to set up your installation?
+
+Please specify an estimate of the time you need to fully set up your installation.
 
 ## 2. Materials Needed
 
